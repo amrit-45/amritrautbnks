@@ -41,7 +41,7 @@ dynamic web applications and experimenting with **Arduino projects** to bring id
 
 ## 📫 Connect With Me  
 - 💼 [GitHub](https://github.com/AmritRaut)  
-- 📧 **Email:** *[your-email@example.com]* (replace with actual email if desired)
+- 📧 **Email:** *[zoomfe33@gmail.com]*
 
 ---
 
